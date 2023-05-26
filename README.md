@@ -6,4 +6,4 @@ My first swift project.
 
 No need to explain, you know :D
 
-It is a mobile project made using Swift and Swift UI.
+It is a mobile project made using Swift and Storyboard.
